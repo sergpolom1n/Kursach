@@ -1,0 +1,3 @@
+/Users/sergey/Programming/C++/Курсач/5/cmake-build-debug/CMakeFiles/5.dir
+/Users/sergey/Programming/C++/Курсач/5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergey/Programming/C++/Курсач/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+hello{hi}
+need{want}
+help{aid, assist, serve}
+think{understand}
+
